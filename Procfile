@@ -1,1 +1,1 @@
-web: node /views/index.jade
+web: node app.js
